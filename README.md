@@ -2,7 +2,7 @@
 
 An English translation project for **Langrisser Millennium** on the **Sega Dreamcast**.
 
-> **Current status: Beta 1 — Build 62**
+> **Current status: Beta 1 Hotfix — Build 62**
 
 This is an **AI-assisted translation project**.
 
@@ -14,7 +14,7 @@ The goal of the Beta is to find remaining untranslated content, translation prob
 
 ## Current Status
 
-**Beta 1 / Build 62**
+**Beta 1 Hotfix / Build 62**
 
 Basic testing has been completed for:
 
@@ -153,7 +153,7 @@ The goal is to produce a **stable, readable and enjoyable English version**.
 
 The latest public version can be found in the **Releases** section of this repository.
 
-**Current release: Beta 1 / Build 62**
+**Current release: Beta 1 Hotfix / Build 62**
 
 **Beta 1 Hotfix / Build 62 fixes a critical loading freeze present in Build 61.**
 
